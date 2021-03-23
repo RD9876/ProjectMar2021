@@ -3,7 +3,8 @@ package org.codes;
 public class Sample {
 
 	public static void main(String[] args) {
-		System.out.println("Java");
+		System.out.println("Javas");
+		System.out.println("New line");
 	}
 
 }
