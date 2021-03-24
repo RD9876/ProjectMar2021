@@ -8,6 +8,8 @@ public class Sample {
 		int a = 10;
 		int b = 20;
 		System.out.println(a + b);
+		String name = "Greens";
+		System.out.println(name);
 	}
 
 }
