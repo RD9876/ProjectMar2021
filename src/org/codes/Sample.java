@@ -10,6 +10,7 @@ public class Sample {
 		System.out.println(a + b);
 		int c=30;
 		System.out.println(c);
+		System.out.println("New data");
 	}
 
 }
